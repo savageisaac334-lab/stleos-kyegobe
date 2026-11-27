@@ -1,0 +1,6 @@
+User-agent: * 
+Allow: / 
+Disallow: /admin/ 
+Disallow: /includes/ 
+Disallow: /data/ 
+Sitemap: https://stleoscollege.ct.ws/sitemap.xml
