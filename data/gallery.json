@@ -1,0 +1,482 @@
+[
+ {
+  "id": 1,
+  "file": "assets/img/img01.jpg",
+  "title": "Friends of the College",
+  "desc": "Members of the St. Leo's family come together in a spirit of fellowship and shared pride.",
+  "category": "Community",
+  "visible": true
+ },
+ {
+  "id": 2,
+  "file": "assets/img/img02.jpg",
+  "title": "Alumni League Match Day",
+  "desc": "Alumni teams line up before kick-off, keeping the bond of Kyegobe alive through sport.",
+  "category": "Sports",
+  "visible": true
+ },
+ {
+  "id": 3,
+  "file": "assets/img/img03.jpg",
+  "title": "Alumni League Squad",
+  "desc": "A united squad displays the discipline and camaraderie nurtured at the College.",
+  "category": "Sports",
+  "visible": true
+ },
+ {
+  "id": 4,
+  "file": "assets/img/img04.jpg",
+  "title": "Gold and Green on the Pitch",
+  "desc": "Old Boys and friends represent their teams with pride in the alumni football season.",
+  "category": "Sports",
+  "visible": true
+ },
+ {
+  "id": 5,
+  "file": "assets/img/img05.jpg",
+  "title": "Basketball Team 2025",
+  "desc": "The College basketball squad poised and ready, reflecting teamwork and sporting discipline.",
+  "category": "Sports",
+  "visible": true
+ },
+ {
+  "id": 6,
+  "file": "assets/img/img06.jpg",
+  "title": "Team Photograph",
+  "desc": "Players assemble for a team photograph after a well-organised tournament fixture.",
+  "category": "Sports",
+  "visible": true
+ },
+ {
+  "id": 7,
+  "file": "assets/img/img07.jpg",
+  "title": "Distinguished Guests",
+  "desc": "School leadership welcomes distinguished guests and partners to the campus.",
+  "category": "Community",
+  "visible": true
+ },
+ {
+  "id": 8,
+  "file": "assets/img/img08.jpg",
+  "title": "Pastoral Visit to the Campus",
+  "desc": "A pastoral visit to the College grounds, rooted in our Catholic foundation.",
+  "category": "Faith",
+  "visible": true
+ },
+ {
+  "id": 9,
+  "file": "assets/img/img09.png",
+  "title": "Chapiri Sports Club Emblem",
+  "desc": "The emblem of a sports club within the wider St. Leo's alumni sporting family.",
+  "category": "Emblems",
+  "visible": true
+ },
+ {
+  "id": 10,
+  "file": "assets/img/img10.jpg",
+  "title": "Annual Gala Gathering",
+  "desc": "Students, staff and alumni gather for a memorable community celebration.",
+  "category": "Community",
+  "visible": true
+ },
+ {
+  "id": 11,
+  "file": "assets/img/img11.jpg",
+  "title": "Leadership and Recognition",
+  "desc": "School leadership celebrating achievement with learners and friends of the College.",
+  "category": "Community",
+  "visible": true
+ },
+ {
+  "id": 12,
+  "file": "assets/img/img12.jpg",
+  "title": "Celebrating Together",
+  "desc": "Smiles and shared success at a College function.",
+  "category": "Community",
+  "visible": true
+ },
+ {
+  "id": 13,
+  "file": "assets/img/img13.jpg",
+  "title": "Head Prefect, Student Leadership",
+  "desc": "Student leaders are trained to serve with integrity, responsibility and humility.",
+  "category": "Academics",
+  "visible": true
+ },
+ {
+  "id": 14,
+  "file": "assets/img/img14.jpg",
+  "title": "Student Leadership Elections",
+  "desc": "A transparent student leadership process builds civic responsibility.",
+  "category": "Academics",
+  "visible": true
+ },
+ {
+  "id": 15,
+  "file": "assets/img/img15.jpg",
+  "title": "Football Fixture Line-up",
+  "desc": "Competitive football that promotes fitness, fair play and sportsmanship.",
+  "category": "Sports",
+  "visible": true
+ },
+ {
+  "id": 16,
+  "file": "assets/img/img16.jpg",
+  "title": "Inter-house Football Team",
+  "desc": "A squad in team colours preparing for a spirited fixture.",
+  "category": "Sports",
+  "visible": true
+ },
+ {
+  "id": 17,
+  "file": "assets/img/img17.jpg",
+  "title": "Alumni League Season Launch",
+  "desc": "The launch of the alumni league celebrates fellowship across generations.",
+  "category": "Community",
+  "visible": true
+ },
+ {
+  "id": 18,
+  "file": "assets/img/img18.jpg",
+  "title": "Alumni Reunion Moments",
+  "desc": "Former students return to the hill to reconnect with classmates and teachers.",
+  "category": "Community",
+  "visible": true
+ },
+ {
+  "id": 19,
+  "file": "assets/img/img19.jpg",
+  "title": "The Landscaped Lane",
+  "desc": "Neatly trimmed hedges and paved walkways create a serene learning environment.",
+  "category": "Campus",
+  "visible": true
+ },
+ {
+  "id": 20,
+  "file": "assets/img/img20.jpg",
+  "title": "Statue of St. Leo",
+  "desc": "The statue stands as a reminder of the patron whose name the College proudly bears.",
+  "category": "Faith",
+  "visible": true
+ },
+ {
+  "id": 21,
+  "file": "assets/img/img21.jpg",
+  "title": "Basketball Squad",
+  "desc": "Players and supporters unite after a competitive basketball outing.",
+  "category": "Sports",
+  "visible": true
+ },
+ {
+  "id": 22,
+  "file": "assets/img/img22.jpg",
+  "title": "The College Library",
+  "desc": "A calm, well-kept library block that supports research and independent study.",
+  "category": "Campus",
+  "visible": true
+ },
+ {
+  "id": 23,
+  "file": "assets/img/img23.jpg",
+  "title": "Classroom Block",
+  "desc": "A modern classroom block set within lush, green lawns.",
+  "category": "Campus",
+  "visible": true
+ },
+ {
+  "id": 24,
+  "file": "assets/img/img24.jpg",
+  "title": "College Marathon",
+  "desc": "Students, staff and alumni take part in a community marathon for health and unity.",
+  "category": "Sports",
+  "visible": true
+ },
+ {
+  "id": 25,
+  "file": "assets/img/img25.jpg",
+  "title": "Marathon Day Gathering",
+  "desc": "Participants gather at the start line in a spirit of friendly competition.",
+  "category": "Sports",
+  "visible": true
+ },
+ {
+  "id": 26,
+  "file": "assets/img/img26.jpg",
+  "title": "Basketball Court Action",
+  "desc": "Learners enjoy a lively game on the College basketball court.",
+  "category": "Sports",
+  "visible": true
+ },
+ {
+  "id": 27,
+  "file": "assets/img/img27.jpg",
+  "title": "Basketball Teams Together",
+  "desc": "Teams and supporters pose together, celebrating teamwork on and off the court.",
+  "category": "Sports",
+  "visible": true
+ },
+ {
+  "id": 28,
+  "file": "assets/img/img28.jpg",
+  "title": "Academic Block",
+  "desc": "Spacious academic facilities designed for effective teaching and learning.",
+  "category": "Campus",
+  "visible": true
+ },
+ {
+  "id": 29,
+  "file": "assets/img/img29.jpg",
+  "title": "Team Jerseys in Gold",
+  "desc": "Gold team jerseys worn with pride during an inter-school basketball event.",
+  "category": "Sports",
+  "visible": true
+ },
+ {
+  "id": 30,
+  "file": "assets/img/img30.jpg",
+  "title": "The Campus at Night",
+  "desc": "Well-lit pathways keep the campus safe and welcoming after dark.",
+  "category": "Campus",
+  "visible": true
+ },
+ {
+  "id": 31,
+  "file": "assets/img/img31.jpg",
+  "title": "Prefectorial Body 2025",
+  "desc": "The 2025 prefects, ambassadors of discipline, service and school spirit.",
+  "category": "Academics",
+  "visible": true
+ },
+ {
+  "id": 32,
+  "file": "assets/img/img32.jpg",
+  "title": "Football Team in Green",
+  "desc": "A football squad in club colours after a successful training session.",
+  "category": "Sports",
+  "visible": true
+ },
+ {
+  "id": 33,
+  "file": "assets/img/img33.jpg",
+  "title": "Residential Facilities",
+  "desc": "Boarding blocks set within quiet, well-maintained grounds.",
+  "category": "Campus",
+  "visible": true
+ },
+ {
+  "id": 34,
+  "file": "assets/img/img34.jpg",
+  "title": "Football Supporters and Players",
+  "desc": "Players and supporters share a joyful moment after a match.",
+  "category": "Sports",
+  "visible": true
+ },
+ {
+  "id": 35,
+  "file": "assets/img/img35.jpg",
+  "title": "A Moment of Joy",
+  "desc": "A candid moment shared by members of the extended school community.",
+  "category": "Community",
+  "visible": true
+ },
+ {
+  "id": 36,
+  "file": "assets/img/img36.jpg",
+  "title": "Alumni League Veterans",
+  "desc": "Seasoned alumni teams continue to live out the College motto through sport.",
+  "category": "Sports",
+  "visible": true
+ },
+ {
+  "id": 37,
+  "file": "assets/img/img37.jpg",
+  "title": "Students in the Stands",
+  "desc": "Students share a lively moment of school spirit during co-curricular events.",
+  "category": "Community",
+  "visible": true
+ },
+ {
+  "id": 38,
+  "file": "assets/img/img38.jpg",
+  "title": "FC Soli 06 Emblem",
+  "desc": "The emblem of a club that proudly belongs to the St. Leo's sporting family.",
+  "category": "Emblems",
+  "visible": true
+ },
+ {
+  "id": 39,
+  "file": "assets/img/img39.jpg",
+  "title": "Administration Block",
+  "desc": "The administration block, framed by manicured hedges and a welcoming pathway.",
+  "category": "Campus",
+  "visible": true
+ },
+ {
+  "id": 40,
+  "file": "assets/img/img40.jpg",
+  "title": "Alumni Teams Together",
+  "desc": "Several alumni teams unite for a group photograph at the end of play.",
+  "category": "Community",
+  "visible": true
+ },
+ {
+  "id": 41,
+  "file": "assets/img/img41.jpg",
+  "title": "Alumni League Gathering",
+  "desc": "Alumni celebrate friendship and sportsmanship in a vibrant gathering.",
+  "category": "Community",
+  "visible": true
+ },
+ {
+  "id": 42,
+  "file": "assets/img/img42.jpg",
+  "title": "Football Squad in Red",
+  "desc": "A determined squad in red kits poses ahead of a match.",
+  "category": "Sports",
+  "visible": true
+ },
+ {
+  "id": 43,
+  "file": "assets/img/img43.jpg",
+  "title": "Basketball Team 2024",
+  "desc": "The 2024 basketball team with coaches and supporters.",
+  "category": "Sports",
+  "visible": true
+ },
+ {
+  "id": 44,
+  "file": "assets/img/img44.jpg",
+  "title": "Fathers and Brothers",
+  "desc": "Religious brothers and clergy continue the pastoral tradition of the College.",
+  "category": "Faith",
+  "visible": true
+ },
+ {
+  "id": 45,
+  "file": "assets/img/img45.jpg",
+  "title": "College Crest: Strive for Excellence",
+  "desc": "Our crest and motto summarise a lasting commitment to excellence.",
+  "category": "Emblems",
+  "visible": true
+ },
+ {
+  "id": 46,
+  "file": "assets/img/img46.jpg",
+  "title": "Chapel Assembly",
+  "desc": "Learners and staff gather for prayer, Mass and reflection in the College chapel.",
+  "category": "Faith",
+  "visible": true
+ },
+ {
+  "id": 47,
+  "file": "assets/img/img47.jpg",
+  "title": "Feast Day Celebration",
+  "desc": "The community celebrates a feast day with worship, music and fellowship.",
+  "category": "Faith",
+  "visible": true
+ },
+ {
+  "id": 48,
+  "file": "assets/img/img48.jpg",
+  "title": "Football Team in Green",
+  "desc": "Players showcase teamwork and sportsmanship after a competitive game.",
+  "category": "Sports",
+  "visible": true
+ },
+ {
+  "id": 49,
+  "file": "assets/img/img49.jpg",
+  "title": "Marathon Fellowship",
+  "desc": "Participants celebrate completion of a community marathon in team colours.",
+  "category": "Sports",
+  "visible": true
+ },
+ {
+  "id": 50,
+  "file": "assets/img/img50.jpg",
+  "title": "Residential and Learning Block",
+  "desc": "A bright, multi-storey block that serves learners across the College.",
+  "category": "Campus",
+  "visible": true
+ },
+ {
+  "id": 51,
+  "file": "assets/img/img51.jpg",
+  "title": "Old Boys Reunion",
+  "desc": "Old Boys return to Kyegobe Hill to renew bonds and support the College.",
+  "category": "Community",
+  "visible": true
+ },
+ {
+  "id": 52,
+  "file": "assets/img/img52.jpg",
+  "title": "SLECK League Emblem",
+  "desc": "The emblem of the SLECK alumni league: faith, courage and community.",
+  "category": "Emblems",
+  "visible": true
+ },
+ {
+  "id": 53,
+  "file": "assets/img/img53.jpg",
+  "title": "Festive Celebration 2024",
+  "desc": "Well-dressed students and guests mark a memorable celebration in 2024.",
+  "category": "Community",
+  "visible": true
+ },
+ {
+  "id": 54,
+  "file": "assets/img/img54.jpg",
+  "title": "Friends on Campus",
+  "desc": "A relaxed moment among friends within the College community.",
+  "category": "Community",
+  "visible": true
+ },
+ {
+  "id": 55,
+  "file": "assets/img/img55.jpg",
+  "title": "Pudo FC Emblem",
+  "desc": "The lion emblem of an alumni football club connected to the College.",
+  "category": "Emblems",
+  "visible": true
+ },
+ {
+  "id": 56,
+  "file": "assets/img/img56.jpg",
+  "title": "Basketball Slam Dunk",
+  "desc": "A thrilling dunk showcases the athletic talent developed on our courts.",
+  "category": "Sports",
+  "visible": true
+ },
+ {
+  "id": 57,
+  "file": "assets/img/img57.jpg",
+  "title": "Students in Class",
+  "desc": "Focused learners in the classroom, supported by committed teachers.",
+  "category": "Academics",
+  "visible": true
+ },
+ {
+  "id": 58,
+  "file": "assets/img/img58.jpg",
+  "title": "Collaborative Learning",
+  "desc": "Students share ideas and learn from one another in a structured, supportive class.",
+  "category": "Academics",
+  "visible": true
+ },
+ {
+  "id": 59,
+  "file": "assets/img/img59.jpg",
+  "title": "Break-time Fellowship",
+  "desc": "Learners and friends share a relaxed moment in the open air.",
+  "category": "Community",
+  "visible": true
+ },
+ {
+  "id": 60,
+  "file": "assets/img/img60.jpg",
+  "title": "Tambula FC Emblem",
+  "desc": "The Tambula FC crest, part of the sporting identity linked to the College.",
+  "category": "Emblems",
+  "visible": true
+ }
+]

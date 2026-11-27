@@ -1,0 +1,26 @@
+[
+ {
+  "id": 1,
+  "image": "assets/img/img39.jpg",
+  "title": "A Heritage of Excellence on Kyegobe Hill",
+  "text": "For more than a century, St. Leo's College Kyegobe has shaped disciplined, capable and morally upright young people within a serene, purposeful and well-resourced campus.",
+  "btn": "Discover Our Story",
+  "link": "about.php"
+ },
+ {
+  "id": 2,
+  "image": "assets/img/img57.jpg",
+  "title": "Rigorous Academics, Dedicated Mentorship",
+  "text": "Qualified teachers, structured study programmes and a culture of high expectation enable every learner to reach their full intellectual potential.",
+  "btn": "Explore Our Services",
+  "link": "services.php"
+ },
+ {
+  "id": 3,
+  "image": "assets/img/img46.jpg",
+  "title": "Faith, Character and Service",
+  "text": "Rooted in the Catholic tradition, we form the whole person: mind, spirit and body, preparing graduates who lead with integrity and compassion.",
+  "btn": "Visit the Gallery",
+  "link": "gallery.php"
+ }
+]
